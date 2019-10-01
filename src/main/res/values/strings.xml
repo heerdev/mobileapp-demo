@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">TaskSecond</string>
-    <string name="Title">TEST</string>
-    <string name="Subject">Get Notification</string>
-    <string name="Body">Here the message...</string>
-</resources>
